@@ -1,0 +1,25 @@
+{
+  "name": "api-club",
+  "version": "1.0.0",
+  "description": "Api de Club",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "club"
+  ],
+  "author": "Mimi",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^7.8.0",
+    "mongoose": "^8.24.8"
+  }
+}

@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Club</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="img/club.png" type="img/png">
+    <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">CLUB</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="/api/actividades">Actividades</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Socios
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <li><a class="dropdown-item" href="/api/equipos">Equipos</a></li>
+                      <li><a class="dropdown-item" href="/api/usuarios">Usuarios</a></li>
+                      <li><hr class="dropdown-divider"></li>
+                      <li><a class="dropdown-item" href="#">Inscripciones</a></li>
+                    </ul>
+                  </li>
+<!--                   <li class="nav-item">
+                    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                  </li> -->
+                </ul>
+                <form class="d-flex">
+                  <input class="form-control me-2" type="search" placeholder="Buscar.." aria-label="Search">
+                  <button class="btn btn-outline-success" type="submit">Buscar</button>
+                </form>
+              </div>
+            </div>
+          </nav>
+
+    </header>
+
+    <main >
+      <div class="position-relative">
+      <img src="/img/fondo-club.jpg" class="img-fluid rounded mx-auto d-block" alt="club">
+      <h2 class="position-absolute top-50 start-50 translate-middle fs-1 text-white fw-bold text-stroke-5">Club Deportivo</h2>
+    </div>
+    <!-- Card -->
+     <div class="container-fluid row my-5">
+    <div class="border-0 col-3 card mx-auto my-3" style="width: 18rem;">
+      <img src="/img/actividades1.jpg" class="card-img-top" alt="actividades">
+      <div class="container-fluid card-body">
+        <h4 class=" card-title text-center">Actividades</h4>
+        <p class="card-text">Estás interesado en realizar actividades deportivas en el Club? Ofrecemos fútbol, básquet, boxeo, gimnasia artística, handball, karate, patín, vóley y otros más. Ingresá para ver las información de cada uno de los deportes</p>
+        <div class="my-5 text-center border-0">
+        <a href="/api/actividades" class="btn btn-outline-success btn btn-secondary text-white">Me interesa</a>
+        </div>
+      </div>
+    </div>
+
+        <div class="border-0 col-3 card mx-auto my-3" style="width: 18rem;">
+      <img src="/img/equipos1.jpeg" class="card-img-top" alt="equipos">
+      <div class="card-body">
+        <h4 class="card-title text-center">Equipos</h4>
+        <p class="card-text">Toda la información de nuestro plantel profesional, juvenil, infantil, femenino, senior y fútsal en un solo lugar para que estés al día con todas las novedades deportivas del Club</p>
+        <div class="my-5 text-center border-0">
+        <a href="/api/equipos" class="btn btn-outline-success btn btn-secondary text-white">Me interesa</a>
+        </div>
+      </div>
+    </div>
+
+        <div class="border-0 col-3 card mx-auto my-3" style="width: 18rem;">
+      <img src="/img/usuarios1.png" class="card-img-top" alt="usuarios">
+      <div class="card-body">
+        <h4 class="card-title text-center">Usuarios</h4>
+        <p class="card-text">¿Querés formar parte del mejor club deportivo de zona oeste y alrededores? Sé parte de nuestra institución y recibí grandes beneficios, descuentos y accesos exclusivos para nuestros partidos y todas las actividades deportivas que tenemos para ofrecerte.</p>
+        <div class="my-5 text-center border-0">
+        <a href="/api/usuarios" class="btn btn-outline-success btn btn-secondary text-white">Me interesa</a>
+        </div>
+      </div>
+    </div>
+    </div>
+    <!-- end Card -->
+    <!-- List -->
+        <!-- <div class="list-group mt-5">
+            <a href="/api/actividades" class="list-group-item list-group-item-action active" aria-current="true">
+              Actividades
+            </a>
+            <a href="/api/usuarios" class="list-group-item list-group-item-action">Lista de Usuarios</a>
+            <a href="/api/equipos" class="list-group-item list-group-item-action">Equipos</a>
+          </div> -->
+    <!-- end List -->
+
+
+    </main>
+
+    <footer>
+        <ul>
+            <li><span>Alumna: Mimi Flores</span></li>
+            <li><span>Materia: Aplicaciones Híbridas</span></li>
+            <li><span>Docente: Jonathan Cruz</span></li>
+            <li><span>Comisión: DWT4AP</span></li>
+        </ul>
+
+        
+    </footer>
+
+
+    
+</body>
+</html>

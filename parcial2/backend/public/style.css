@@ -1,0 +1,28 @@
+html,
+body{
+    height: 100%;
+}
+
+body{
+    display: grid;
+    grid-template-rows: 4em 1fr 7em;
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 2em;
+}
+header, nav {
+    background-color: rgb(99, 165, 143);
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(99, 165, 143);
+}
+
+li {
+        list-style-type: none;
+}
