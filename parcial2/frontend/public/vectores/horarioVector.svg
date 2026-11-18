@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 331.7 358.21"><metadata><?xpacket begin="" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmpMM:DocumentID="xmp.did:cb9f5498-bb58-4572-8043-8c369e6bfb9b" xmpMM:InstanceID="xmp.iid:cb9f5498-bb58-4572-8043-8c369e6bfb9b" dcterms:provenance="https://cai-manifests.adobe.com/manifests/urn-c2pa-55afb43e-769e-4bf9-8d72-0888e7f85b74-adobe"> </rdf:Description></rdf:RDF></x:xmpmeta>
+<?xpacket end="w"?></metadata>
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00b9b3;
+      }
+
+      .cls-2 {
+        fill: #000180;
+      }
+
+      .cls-3 {
+        fill: #01027e;
+      }
+
+      .cls-4 {
+        fill: #00017f;
+      }
+    </style>
+  </defs>
+  <g id="Capa_9" data-name="Capa 9">
+    <circle class="cls-1" cx="52.58" cy="230" r="12.5"/>
+  </g>
+  <g id="Horario">
+    <g>
+      <path class="cls-4" d="M59.65,225.03v5.26c-.34-.21-.63-.39-.99-.52v-2.63s-12.51,0-12.51,0v8.08c0,.49.43.87.9.92h5.36c.08.22.19.41.31.59l.24.39h-5.91c-1.05-.01-1.89-.94-1.89-1.98v-10.12c0-1.14.86-2.1,2.01-2.15h.5s0,.99,0,.99h-.42c-.61,0-1.09.48-1.09,1.1v1.2s12.51,0,12.51,0v-1.17c0-.27-.09-.52-.26-.72-.18-.24-.46-.39-.77-.39h-.49s0-.99,0-.99h.49c.57,0,1.07.26,1.45.68s.55.91.56,1.47Z"/>
+      <rect class="cls-4" x="49.8" y="222.87" width="5.21" height=".99"/>
+      <path class="cls-3" d="M48.57,224.65c-.27-.06-.47-.32-.47-.59v-2.07c0-.34.34-.56.65-.56.32,0,.63.25.63.6v1.99c0,.21-.08.39-.22.51-.16.13-.36.17-.58.12Z"/>
+      <path class="cls-4" d="M56.03,224.67c-.35-.03-.61-.3-.6-.64v-2.01c0-.35.31-.59.63-.59s.65.22.65.57v2.08c0,.36-.32.62-.67.59Z"/>
+    </g>
+    <rect class="cls-4" x="50.18" y="233.47" width="1.71" height="1.61"/>
+    <rect class="cls-4" x="50.18" y="230.84" width="1.71" height="1.61"/>
+    <rect class="cls-4" x="47.43" y="233.47" width="1.7" height="1.61"/>
+    <rect class="cls-4" x="47.43" y="230.84" width="1.71" height="1.61"/>
+    <rect class="cls-4" x="50.23" y="228.15" width="1.61" height="1.71" transform="translate(-177.99 279.99) rotate(-89.99)"/>
+    <rect class="cls-4" x="52.94" y="228.2" width="1.7" height="1.61"/>
+    <rect class="cls-2" x="47.48" y="228.16" width="1.61" height="1.7" transform="translate(-180.75 277.18) rotate(-89.97)"/>
+    <path class="cls-4" d="M57.4,228.27v1.11c-.57-.05-1.12-.01-1.7.1v-1.28s1.62,0,1.62,0c.03,0,.08.02.08.07Z"/>
+    <g>
+      <path class="cls-4" d="M56.88,229.95c-2.38,0-4.31,1.93-4.31,4.31s1.93,4.31,4.31,4.31,4.31-1.93,4.31-4.31-1.93-4.31-4.31-4.31ZM56.88,237.62c-1.86,0-3.37-1.51-3.37-3.37s1.51-3.37,3.37-3.37,3.37,1.51,3.37,3.37-1.51,3.37-3.37,3.37Z"/>
+      <path class="cls-4" d="M57.24,234.04v-2.13c0-.22-.18-.36-.38-.35-.2.02-.32.17-.32.38v2.3c-.01.13.07.23.17.3l1.66,1.16c.16.11.39.02.46-.12.08-.15.08-.36-.07-.47l-1.53-1.07Z"/>
+    </g>
+  </g>
+</svg>

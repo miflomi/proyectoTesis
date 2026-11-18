@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 331.7 358.21"><metadata><?xpacket begin="" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 6.0.0"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmpMM:DocumentID="xmp.did:cb9f5498-bb58-4572-8043-8c369e6bfb9b" xmpMM:InstanceID="xmp.iid:cb9f5498-bb58-4572-8043-8c369e6bfb9b" dcterms:provenance="https://cai-manifests.adobe.com/manifests/urn-c2pa-b5bb5007-84fc-481d-918b-c09da6b80a6a-adobe"> </rdf:Description></rdf:RDF></x:xmpmeta>
+<?xpacket end="w"?></metadata>
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00b9b3;
+      }
+
+      .cls-2 {
+        fill: #6e70a1;
+      }
+
+      .cls-3 {
+        fill: #6160a5;
+      }
+
+      .cls-4 {
+        fill: #00017e;
+      }
+
+      .cls-5 {
+        fill: #00017f;
+      }
+    </style>
+  </defs>
+  <g id="Capa_9" data-name="Capa 9">
+    <circle class="cls-1" cx="52.58" cy="230" r="12.5"/>
+  </g>
+  <g id="espacio">
+    <g id="espacio-2" data-name="espacio">
+      <path class="cls-5" d="M52.8,220.23c1,0,1.98.37,2.79.97,1.25.92,2.07,2.38,2.1,3.97l-.03.02c.01.11.01.22,0,.33l.03.02c-.01.8-.24,1.61-.64,2.3l-1.76,2.98h2.87s.03.01.03.01c.93,1.83,1.87,3.68,2.81,5.56l.03.13v.63s-16.92,0-16.92,0v-.68s.03-.14.03-.14l2.75-5.5h.03s2.9-.01,2.9-.01c-.62-1.03-1.23-2.08-1.85-3.13-.82-1.57-.74-3.47.17-4.99.86-1.43,2.48-2.45,4.16-2.47h.5ZM52.36,221.22c-.52.02-1.03.15-1.51.37-.37.17-.7.39-1,.65l-.38.38c-.61.69-.97,1.55-1.03,2.47v.54c.05.6.19,1.19.5,1.71l.28.48.87,1.47.54.91.29.48.74,1.25.89,1.48,1.57-2.63,2.05-3.46c.3-.5.44-1.07.49-1.64v-.62c-.04-.49-.16-.96-.36-1.41-.15-.33-.35-.63-.57-.92l-.15-.17c-.71-.8-1.76-1.28-2.82-1.33-.01-.01-.02-.02-.04-.02h-.33s-.03,0-.03.02ZM57.6,231.9s-.03-.05-.06-.05h-2.9s-.12.2-.12.2l-1.64,2.75h-.65s-.42-.71-.42-.71l-1.34-2.25h-2.95s-1.89,3.78-1.89,3.78l-.14.29-.1.21h14.31s-.43-.85-.43-.85l-.3-.58-.17-.35-.2-.4-.88-1.73-.15-.31Z"/>
+      <path class="cls-2" d="M57.66,225.52v-.33s.02.01.02.03v.27s0,.03-.02.03Z"/>
+      <g>
+        <path class="cls-3" d="M52.76,221.22h-.4s0-.02.03-.02h.33s.03,0,.04.02Z"/>
+        <path class="cls-4" d="M54.37,225.34c0,1-.81,1.81-1.81,1.81s-1.81-.81-1.81-1.81.81-1.81,1.81-1.81,1.81.81,1.81,1.81ZM53.38,225.34c0-.45-.37-.82-.82-.82s-.82.37-.82.82.37.82.82.82.82-.37.82-.82Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
